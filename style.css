@@ -1,0 +1,45 @@
+.photos{
+  border: 5px solid white;
+width: 20%;
+}
+
+.poster{
+text-align:center;
+margin-left: 20px;
+margin-top: 100px;
+color: white;
+font-family: 'Libre Baskerville', serif;
+font-size: 50px;
+}
+
+body{
+height: 100vh;
+background-size: cover;
+  background-color: black;
+}
+h1{
+font-size: 3rem;
+  text-transform: uppercase;
+}
+.hard{
+background-color: aliceblue;
+margin-right: 400px;
+font-size: 25px;
+}
+.work{
+
+background-color:white;
+margin-right: 280px;
+font-size: 25px;
+}
+.Mad{
+
+background-color:white;
+margin-left: 80px;
+font-size: 25px;
+}
+.hello{
+
+text-align: center;
+
+}
